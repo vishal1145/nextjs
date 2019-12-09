@@ -32,18 +32,36 @@
       "static\\3B7zKspfxithh2Aa47Ab8\\pages\\_error.js": 10,
       "static\\3B7zKspfxithh2Aa47Ab8\\pages\\about.js": 11,
       "static\\3B7zKspfxithh2Aa47Ab8\\pages\\index.js": 12,
-      "static\\3B7zKspfxithh2Aa47Ab8\\pages\\p\\[id].js": 13
+      "static\\3B7zKspfxithh2Aa47Ab8\\pages\\p\\[id].js": 13,
+      "static\\EFGvqySqLDi3las2vrcnJ\\pages\\_app.js": 2,
+      "static\\EFGvqySqLDi3las2vrcnJ\\pages\\_document.js": 3,
+      "static\\EFGvqySqLDi3las2vrcnJ\\pages\\_error.js": 4,
+      "static\\EFGvqySqLDi3las2vrcnJ\\pages\\about.js": 5,
+      "static\\EFGvqySqLDi3las2vrcnJ\\pages\\index.js": 6,
+      "static\\EFGvqySqLDi3las2vrcnJ\\pages\\p\\[id].js": 7,
+      "static\\XEjQNFz2ceMW1OHykeslF\\pages\\_app.js": 8,
+      "static\\XEjQNFz2ceMW1OHykeslF\\pages\\_document.js": 9,
+      "static\\XEjQNFz2ceMW1OHykeslF\\pages\\_error.js": 10,
+      "static\\XEjQNFz2ceMW1OHykeslF\\pages\\about.js": 11,
+      "static\\XEjQNFz2ceMW1OHykeslF\\pages\\index.js": 12,
+      "static\\XEjQNFz2ceMW1OHykeslF\\pages\\p\\[id].js": 13,
+      "static\\fh3qLc1sTItQKuUA3Qrlf\\pages\\_app.js": 2,
+      "static\\fh3qLc1sTItQKuUA3Qrlf\\pages\\_document.js": 3,
+      "static\\fh3qLc1sTItQKuUA3Qrlf\\pages\\_error.js": 4,
+      "static\\fh3qLc1sTItQKuUA3Qrlf\\pages\\about.js": 5,
+      "static\\fh3qLc1sTItQKuUA3Qrlf\\pages\\index.js": 6,
+      "static\\fh3qLc1sTItQKuUA3Qrlf\\pages\\p\\[id].js": 7
     },
     "bySource": {},
     "usedIds": [
       0,
       1,
-      10,
-      11,
-      12,
-      13,
-      8,
-      9
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
     ]
   }
 }
